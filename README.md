@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm [Your Name]
+# 👋 Hello, I'm Kondalachary Malloju
 
 🚀 **Software Developer** passionate about building scalable and high-performance applications. I specialize in modern web development, backend engineering, and database management.
 
@@ -32,26 +32,11 @@
 - **Backend Services**: Developing scalable APIs with **Go** and **Node.js**.
 - **Data-Driven Systems**: Optimizing database queries in **PostgreSQL** and **MySQL**.
 
----
-
-## 🛠️ My Projects
-
-- [**AwesomeProject1**](https://github.com/your-username/AwesomeProject1)  
-  A full-stack application for [insert use case].
-
-- [**AwesomeProject2**](https://github.com/your-username/AwesomeProject2)  
-  A powerful REST API built with **Golang**.
-
-- [**AwesomeProject3**](https://github.com/your-username/AwesomeProject3)  
-  A blazing fast app leveraging **Next.js** and **React.js**.
-
----
 
 ## 🔗 Connect with Me
 
-- **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+- **LinkedIn**: [linkedin.com/in/yourprofile](www.linkedin.com/in/kondalachary-malloju-2800018b)  
+- **Twitter**: [@yourhandle](https://x.com/Kondalachary1)  
 
 ---
 
